@@ -1,0 +1,7 @@
+dataset/
+predict_folder/
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
